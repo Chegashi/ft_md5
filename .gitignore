@@ -1,0 +1,9 @@
+obj/
+ft_ssl
+libft/obj/
+libft/libft.a
+
+# editor / OS
+.history/
+.vscode/
+.DS_Store
